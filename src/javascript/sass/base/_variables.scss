@@ -1,0 +1,12 @@
+// colors
+$color-main: #ebe3d7;
+
+$breakpoints: (
+    "xs-phone": 320px,
+    "phone": 576px,
+    "tablet": 768px,
+    "desktop": 992px,
+    "widescreen": 1200px,
+    "laptopl": 1440px,
+    "largescreen": 1500px,
+) !default;
